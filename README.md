@@ -1,4 +1,4 @@
-### Intelligent System Case Study 
+### Intelligent System Case Study: Smart Traffic Management System Using Adaptive Signal Control
 
 To run the system type:
 python trafficlight_gui.py
