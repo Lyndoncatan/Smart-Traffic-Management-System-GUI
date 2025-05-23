@@ -3,7 +3,8 @@
 To run the system type:
 python trafficlight_gui.py
 
-### Power point presentation Canva Link: https://www.canva.com/design/DAGoN1naHcc/XUfQfC75H0nN_xN2VjRoDQ/edit?utm_content=DAGoN1naHcc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+### Power point presentation 
+- Canva Link: https://www.canva.com/design/DAGoN1naHcc/XUfQfC75H0nN_xN2VjRoDQ/edit?utm_content=DAGoN1naHcc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 Case Study Explanation: Smart Traffic Light GUI System
 Introduction
